@@ -1,7 +1,7 @@
 {
   "vendor": "acquafort",
   "name": "tad-area-calculator",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "title": "React App Template",
   "description": "React App Template",
   "builders": {
